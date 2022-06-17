@@ -298,3 +298,22 @@ nav .menu{
   background: white;
   color: black;
 }
+
+#pic{
+  width: 500px;
+  height: 300px;
+}
+
+.footer {
+  position: fixed;
+  bottom: 0px;
+  background-color: rgb(255, 255, 255);
+  width: 100%;
+  height: 35px;
+  padding: 5px;
+  text-shadow: 6px 5px 5px rgb(230, 220, 220);
+  font-size: 17px;
+  letter-spacing: 1px;
+  font-weight: bolder;
+  text-align: center;
+}
